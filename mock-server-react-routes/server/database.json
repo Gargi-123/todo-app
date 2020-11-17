@@ -1,0 +1,64 @@
+{
+  "task": [
+    {
+      "id": "30a041ba-05aa-4f0d-a4f5-79a41c7919ea",
+      "title": "Buy Butter",
+      "status": false
+    },
+    {
+      "id": "31a43736-8630-4f2b-baa3-e69ee286adca",
+      "title": "Buy Stick",
+      "status": false
+    },
+    {
+      "id": "956326ee-d7ce-48f3-93e6-052e46b87666",
+      "title": "Buy Meet",
+      "status": false
+    },
+    {
+      "id": "3f3abc40-c500-490c-9811-fb824e553615",
+      "title": "Buy Perfume",
+      "status": false
+    },
+    {
+      "id": "6008e999-9a7a-4030-84e7-58f4e30a3505",
+      "title": "Buy Pasta",
+      "status": true
+    },
+    {
+      "id": "88154f7c-1978-4828-acc3-332ef1d87b32",
+      "title": "Buy Biscuits",
+      "status": false
+    },
+    {
+      "id": "1eb60e56-84b1-4f94-a42f-4c3faeab21de",
+      "title": "Add Sampoo",
+      "status": false
+    },
+    {
+      "id": "b576f9d1-6b6d-492c-9c91-ceca173a892f",
+      "title": "Add Lotion",
+      "status": false
+    },
+    {
+      "id": "d3ed917b-0a37-4ee3-8b67-264408c8eac0",
+      "title": "Buy Banana",
+      "status": false
+    },
+    {
+      "id": "50c57993-ec9f-4985-a1df-cf527399e6af",
+      "title": "Buy Apple",
+      "status": false
+    },
+    {
+      "id": "d34f081d-0d02-40f1-9161-9de565dba61d",
+      "title": "Buy Orange",
+      "status": false
+    },
+    {
+      "id": "5adf858f-de9b-45cb-9557-68f6f5cb2008",
+      "title": "Buy Juice",
+      "status": true
+    }
+  ]
+}
